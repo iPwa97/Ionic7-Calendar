@@ -1,6 +1,6 @@
 {
   "name": "ionic7-calendar",
-  "version": "2.2.0",
+  "version": "2.4.0",
   "description": "Ionic calendar component",
   "keywords": [
     "Ionic",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twinssbc/Ionic2-Calendar.git"
+    "url": "git+https://github.com/iPwa97/Ionic7-Calendar.git"
   },
   "dependencies": {
     "tslib": "^2.3.0"
@@ -21,7 +21,7 @@
     "@angular/common": "^17.0.2",
     "@angular/core": "^17.0.2",
     "@ionic/angular": "^7.0.0",
-    "swiper": "^10.1.0"
+    "swiper": "^11.0.5"
   },
   "module": "fesm2022/ionic7-calendar.mjs",
   "typings": "index.d.ts",
